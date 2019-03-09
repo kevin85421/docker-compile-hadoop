@@ -1,0 +1,1 @@
+# docker-compile-hadoop
